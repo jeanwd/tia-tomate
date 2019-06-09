@@ -1,0 +1,28 @@
+.button{
+  padding: .7rem 2rem;
+  color: $white;
+  border-radius:51px 51px 51px 51px;
+  border-color: $granite-gray;
+
+
+  &--big{
+    font-family: $raleway;
+
+
+  }
+
+  &--large{
+    font-family: $raleway;
+    font-size: $medium;
+  }
+
+  &--medium{
+    font-family: $raleway;
+    font-size: $medium;
+  }
+
+  &--small{
+    font-family: $raleway;
+    font-size: $medium;
+  }
+}
